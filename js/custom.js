@@ -1,0 +1,1 @@
+document.getElementById('demo_desc').innerHTML = "This is my first GIT app."
